@@ -1,11 +1,7 @@
 print("hello world")
 
-print("test commit")
+for i in range(5):
+    print(i)
+    print(i+1)
 
-list = ["hi", "hello", 1, 2]
-
-for x in list:
-    print(x)
-
-def SayHi():
-    print('hi')
+print("hello world")
